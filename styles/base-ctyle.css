@@ -1,0 +1,17 @@
+@import './reset.css';
+
+:root {
+
+}
+
+html,
+body,
+.container__calculator {
+    height: 100%;
+}
+
+.container__calculator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
